@@ -1,4 +1,8 @@
 ## Hi 我是VC 👋
+![figurelists](./background.png)
+一個只要是跟電腦有關的的高中生(2024)，英文很破，常常用翻譯軟體😭，但還是十分熱愛寫程式
+
+接觸過Scratch Python C++ Html Java ，現在正在努力主攻Python
 
 <!--
 **M24VC/M24VC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
