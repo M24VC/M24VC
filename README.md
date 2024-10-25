@@ -6,6 +6,7 @@
 接觸過Scratch Python C++ Html Java ，現在正在努力主攻Python
 #
 <img src="https://github.com/M24VC/M24VC/blob/main/YT.ico" width="25%">
+<img src="https://github.com/M24VC/M24VC/blob/main/YT.jpg" width="25%">
 <!--
 **M24VC/M24VC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
