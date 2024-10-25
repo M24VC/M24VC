@@ -6,7 +6,7 @@
 接觸過Scratch Python C++ Html Java ，現在正在努力主攻Python
 #
 我的網站:https://m24vc.vercel.app/
-#
+
 我的YouTube頻道:https://www.youtube.com/@M24VC
 #
 <!--
